@@ -40,5 +40,5 @@ Esta página apresenta informações sobre a pesquisa de satisfação.
  - Nota do Produto
 <br><br>
 
-![Detalhado](images/Pesquisa de Satisfação.jpg)
+![Detalhado](images/Pesquisa%20de%20Satisfação.jpg)
 <br>
